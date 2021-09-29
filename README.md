@@ -13,6 +13,6 @@
 - :pushpin: Things to do: :mortar_board: 
 
 ## Programming languages I want to learn:
-- C++
-- JavaScript
+- C++ ©️
+- JavaScript 🔗
  
