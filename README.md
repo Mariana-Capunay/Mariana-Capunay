@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi! 👋
 
-<!--
-**Mariana-Capunay/Mariana-Capunay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**I'm Mariana Capuñay** :raising_hand:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### About me
+
+- :books: I’m  a CS student  :computer:
+- 🌱 I’m currently learning english
+-:email: How to reach me: mariana.capunay@utec.edu.pe
+- 😄 Pronouns: She
+- :pencil: Life Phrase: *"I don't need special days in order to be grateful for each thing I have"* 
+- :pushpin: Things to do: :mortar_board: 
